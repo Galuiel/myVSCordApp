@@ -6,7 +6,7 @@
         new_qty = 0;
     }
 
-    document.getElementById('qty').value = new_aty;
+    document.getElementById('qty').value = new_qty;
     return new_qty;
 }
 
